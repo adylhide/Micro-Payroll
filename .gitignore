@@ -13,3 +13,7 @@ dist-ssr
 # IDE
 .vscode/
 .idea/
+
+client/.env
+server/.env
+
