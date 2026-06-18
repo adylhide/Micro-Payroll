@@ -57,4 +57,4 @@ pnpm-debug.log*
 *.ntvs*
 *.njsproj
 
-client/supabaseClient.js
+client/src/supabaseClient.js
