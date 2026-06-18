@@ -1,1 +1,19 @@
+# Dependencies
+node_modules/
+.DS_Store
+dist/
+dist-ssr
+*.local
+
+# Environment Secrets (STRICT PROTECTION)
 .env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+
+client/.env
+server/.env
+
